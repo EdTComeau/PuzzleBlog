@@ -1,0 +1,6 @@
+We are using Node(allows Javascript), express(All server functions), ejs(HTML templates),
+In terminal "mkdir {Project name}"
+In terminal "nmp init -y" **Requires Node
+In terminal "npm i express mongoose ejs"
+In terminal "touch app.js"
+Go into app.js and add step 1
